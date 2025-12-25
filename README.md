@@ -1,7 +1,7 @@
 # tinkertown-map-editor
  
 **Try the editor at**
-https://mzigi.github.io/tinkertown-map-editor/ (remember to make a backup!)
+https://steinann.github.io/tinkertown-map-editor/ (remember to make a backup!)
 
 ## Where are the map folders stored?
 
